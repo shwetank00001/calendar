@@ -5,7 +5,8 @@ const Calendar = () => {
 
     function getDays(monthMoment){
         console.log(":HELALD")
-        console.log(moment().startOf('year'))
+        const monthCopy = moment().startOf('month')
+        // console.log(monthCopy)
   
     }
 
