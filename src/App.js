@@ -1,11 +1,11 @@
-import Calendar from "./components/Calendar";
-
+// import Calendar from "./components/Calendar";
+import Comp from "./components/Comp";
 
 function App() {
   return (
     <div className="App">
 
-      <Calendar />
+      <Comp />
     </div>
   );
 }
