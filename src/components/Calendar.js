@@ -6,7 +6,10 @@ const Calendar = () => {
     function getDays(monthMoment){
         console.log(":HELALD")
         const monthCopy = moment().startOf('month')
-        // console.log(monthCopy)
+        console.log(monthCopy)
+
+        let days = []
+        
   
     }
 

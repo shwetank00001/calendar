@@ -1,11 +1,13 @@
 // import Calendar from "./components/Calendar";
-import Comp from "./components/Comp";
+import Main from "./components/Main";
 
 function App() {
+
+  
   return (
     <div className="App">
 
-      <Comp />
+      <Main />
     </div>
   );
 }
